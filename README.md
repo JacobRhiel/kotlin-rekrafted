@@ -19,7 +19,8 @@ In order to make sure your plugin both requires and loads after Kotlin-Rekrafted
 @[Plugin(dependencies = arrayOf(Dependency(id = "spotlin", 
                                            optional = false, 
                                            version = "0.1.3")))]
-class PluginClass```
+class PluginClass
+```
 
 You will also need to add this to your mcmod.info file:
 
