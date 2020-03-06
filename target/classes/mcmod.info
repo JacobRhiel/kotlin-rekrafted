@@ -1,0 +1,14 @@
+[
+    {
+        "modid": "kotlin-rekrafted",
+        "name": "Kotlin Rekrafted",
+        "version": "1.0.0",
+        "description": "Kotlin Rekrafted",
+        "dependencies": [
+            "spongeapi@7.1.0-SNAPSHOT"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0-SNAPSHOT"
+        ]
+    }
+]
